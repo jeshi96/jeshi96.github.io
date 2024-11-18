@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Jessica Shi</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2024-02-19T14:06:49-05:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://jeshi96.github.io/atom.xml" rel="self"/>
+ <link href="http://jeshi96.github.io/"/>
+ <updated>2024-11-18T10:29:13-05:00</updated>
+ <id>http://jeshi96.github.io</id>
  <author>
    <name>Jessica Shi</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Introducing Hyde</title>
-   <link href="http://localhost:4000/2013/12/28/introducing-hyde/"/>
+   <link href="http://jeshi96.github.io/2013/12/28/introducing-hyde/"/>
    <updated>2013-12-28T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2013/12/28/introducing-hyde</id>
+   <id>http://jeshi96.github.io/2013/12/28/introducing-hyde</id>
    <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
@@ -58,9 +58,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/2012/02/06/whats-jekyll/"/>
+   <link href="http://jeshi96.github.io/2012/02/06/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2012/02/06/whats-jekyll</id>
+   <id>http://jeshi96.github.io/2012/02/06/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
